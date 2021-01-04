@@ -8,6 +8,7 @@
 //#include "../include/rules.h"
 //
 //
+//
 using namespace std;
 
 /******************************************************
